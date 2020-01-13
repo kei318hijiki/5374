@@ -13,4 +13,7 @@ label,sublabel,description,styles,bgcolor
 キッチンの油と貝殻と調理くず,,「週1回のキッチンの油と貝殻と調理くず」として出せるものです。,img/moyasanai02.svg,#87cefa
 プラスチック製容器包装,,「週1回のプラスチック製容器包装ごみの日」に出せるものです。橙色の袋に入れて出してください。,img/bin02.svg,#ff8c00
 紙製容器包装・雑がみ,,「週1回の紙製容器包装・雑がみ」として出せるものです。,img/moyasanai02.svg,#cd853f
-新聞、雑誌、段ボール、紙パック,,「週1回の新聞」として出せるものです。,img/moyasanai02.svg,#87cefa
+新聞,,「週1回の新聞」として出せるものです。,img/moyasanai02.svg,#87cefa
+雑誌,,「週1回の雑誌」として出せるものです。,img/moyasanai02.svg,#87cefa
+段ボール,,「週1回の段ボール」として出せるものです。,img/moyasanai02.svg,#87cefa
+紙パック,,「週1回の紙パック」として出せるものです。,img/moyasanai02.svg,#87cefa
